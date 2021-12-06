@@ -2,5 +2,5 @@
 
 ### <ins> Description: </ins>
 #### This is a code-library containing the problems that I have solved from different online judges so far.
-#### I'm continue updating this repo.
+#### continue updating this repo.
 
